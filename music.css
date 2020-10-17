@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Maven Pro', sans-serif;
+    background-image: url("./music/guitar-1245856_1920.jpg");
+}
+h1{
+    text-align: center;
+    font-size: 1.8rem;
+    color: white;
+    padding: 30px 0px;
+}
+main{
+    width: 90%;
+    margin: auto;
+    border: 3px solid rgb(87, 100, 41);
+    display: flex;
+    justify-content: space-around;
+    height: 550px;
+    align-items: center;
+   flex-wrap: wrap;   /* multipal div hote or barabar space dene kr liye */
+}
+div{
+    width: 30%;
+    height: 160px;
+    /* border: 1px solid darkred; */
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.a{
+    background-image: url("./music/girl-1990347_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.b{
+    background-image: url("./music/musician-349790_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.c{
+    background-image: url("./music/ipad-605439_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.d{
+    background-image: url("./music/musicians-690591_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+    .e{
+        background-image: url("./music/saxophone-546303_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+.f{
+    background-image: url("./music/dj-720589_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.g{
+    background-image: url("./music/gadgets-336635_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.h{
+    background-image: url("./music/guitar-1245856_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.i{
+    background-image: url("./music/vinyl-2241789_1280.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
